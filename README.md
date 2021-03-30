@@ -1,6 +1,6 @@
 # TinDog
 
-Project from the Complete 2020 Web Development Course - Angela Yu / Udemy
+Project from the Complete 2020 Web Development Course - Angela Yu | Udemy
 
 This simple HTML/CSS project was my first ever experience with UI/UX and the Bootstrap framework.
 
