@@ -10,4 +10,4 @@ Although I did not come up with the style, I learned a lot about clean code, UI/
 
 GitHub page available.
 
-🔗 https://emmadebarros.github.io/TinDog-Project/
+🔗 https://emmadebarros.github.io/TinDog/
